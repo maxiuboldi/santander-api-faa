@@ -1,1 +1,1 @@
-web: gunicorn app:santander_api
+web: gunicorn santander_api:app
